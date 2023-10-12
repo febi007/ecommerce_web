@@ -1,0 +1,38 @@
+<svg id="Group_92" data-name="Group 92" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-185 1835 89.928 66.116">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f89718;
+      }
+
+      .cls-2 {
+        fill: #3c76c0;
+      }
+
+      .cls-3 {
+        fill: #fbfbfb;
+      }
+
+      .cls-4 {
+        fill: #777;
+      }
+
+      .cls-5 {
+        filter: url(#Ellipse_25);
+      }
+    </style>
+    <filter id="Ellipse_25" x="-171" y="1841" width="58" height="58" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="Rectangle_56" data-name="Rectangle 56" class="cls-1" width="89.54" height="65.869" rx="11" transform="translate(-185 1835)"/>
+  <path id="Subtraction_8" data-name="Subtraction 8" class="cls-2" d="M12.063,69.116v0h0a11,11,0,0,1-3.719-8.245V17a11,11,0,0,1,11-11h67.54a10.976,10.976,0,0,1,7.388,2.85Z" transform="translate(-86.729 1907.116) rotate(180)"/>
+  <g class="cls-5" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <circle id="Ellipse_25-2" data-name="Ellipse 25" class="cls-3" cx="20" cy="20" r="20" transform="translate(-162 1847)"/>
+  </g>
+  <path id="Path_55" data-name="Path 55" class="cls-4" d="M744.9,1706.883l10.721-28.241,5.528,18.881,7.371-10.651,2.038,4.594,6.84,15.417Z" transform="translate(-903 171.602)"/>
+</svg>

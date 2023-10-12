@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1034 136 57.91 53">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f89718;
+      }
+    </style>
+  </defs>
+  <g id="shopping-cart_4_" data-name="shopping-cart (4)" transform="translate(1034 114.295)">
+    <g id="Group_2" data-name="Group 2" transform="translate(38.631 60.264)">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path_1" data-name="Path 1" class="cls-1" d="M348.768,362.612a7.221,7.221,0,1,0,7.221,7.221A7.229,7.229,0,0,0,348.768,362.612Zm0,10.109a2.888,2.888,0,1,1,2.888-2.888A2.891,2.891,0,0,1,348.768,372.721Z" transform="translate(-341.547 -362.612)"/>
+      </g>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(0 21.705)">
+      <g id="Group_3" data-name="Group 3" transform="translate(0 0)">
+        <path id="Path_2" data-name="Path 2" class="cls-1" d="M57.45,32.356a2.164,2.164,0,0,0-1.706-.831H13.371l-1.95-8.157A2.167,2.167,0,0,0,9.315,21.7H2.166a2.166,2.166,0,1,0,0,4.332H7.6l7.04,29.458a2.166,2.166,0,0,0,2.107,1.663H50.473a2.166,2.166,0,0,0,2.1-1.645l5.271-21.3A2.17,2.17,0,0,0,57.45,32.356ZM48.778,52.826H18.462L14.407,35.857H52.976Z" transform="translate(0 -21.705)"/>
+      </g>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(12.42 60.264)">
+      <g id="Group_5" data-name="Group 5">
+        <path id="Path_3" data-name="Path 3" class="cls-1" d="M117.027,362.612a7.221,7.221,0,1,0,7.221,7.221A7.229,7.229,0,0,0,117.027,362.612Zm0,10.109a2.888,2.888,0,1,1,2.888-2.888A2.891,2.891,0,0,1,117.027,372.721Z" transform="translate(-109.806 -362.612)"/>
+      </g>
+    </g>
+  </g>
+</svg>
